@@ -1,0 +1,14 @@
+p {
+    font-weight: 400;
+    font-size: xx-large;
+}
+
+.navBar {
+    background-image: linear-gradient(red, yellow);
+    height: 100px;
+}
+
+.col-md-4 {
+    color: white;
+    font-size: 75px;
+}
